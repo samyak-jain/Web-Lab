@@ -11,6 +11,6 @@ with open('htmlfile.txt') as f:
     tokens = nltk.word_tokenize(text)
     stop_words = set(stopwords.words('english'))
     filtered = [w for w in tokens if w not in stop_words]
-    stemmer = nltk.stemmer.PorterStemmer()
+    stemmer = PorterStemmer()
     stemmed_words = list(map(lambda x: stemmer.stem(x), filtered))
     print(Counter(stemmed_words))
