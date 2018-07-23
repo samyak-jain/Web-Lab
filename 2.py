@@ -9,6 +9,7 @@ with open('htmlfile.txt') as f:
     x = f.read()
     soup = BeautifulSoup(x, 'html.parser')
     soup.script.decompose()
+    soup.a.decompose()
     text = soup.get_text()
     translate_table = dict((ord(char), None) for char in string.punctuation)
     text = text.translate(translate_table)
