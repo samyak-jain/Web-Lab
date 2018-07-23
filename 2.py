@@ -10,7 +10,7 @@ with open('htmlfile.txt') as f:
     soup = BeautifulSoup(x, 'html.parser')
     text = soup.get_text()
     translate_table = dict((ord(char), None) for char in string.punctuation)
-    text.translate(translate_table)
+    text = text.translate(translate_table)
     tokens = nltk.word_tokenize(text)
     stop_words = set(stopwords.words('english'))
     filtered = [w for w in tokens if w not in stop_words]
