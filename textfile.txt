@@ -1,0 +1,20 @@
+The mission of the School is to persistently strive for achieving excellence in computing disciplines. It is being pursued through its spectrum of academic programmes in computing of contemporary standards. The sustained effort is to produce computing graduates with potential to design and develop systems involving the integration of software and hardware devices; innovative approaches to programming and problem solving as well as creative ways to use Computers; Large scale software systems; and computing infrastructure of an organization. 
+
+History of computing discipline at VIT dates back to 1993, when the Department of Computer Science & Engineering was established to meet the demand for well-qualified computer professionals. The School of computer science and engineering. (SCOPE) was conceived in the year 2009. 
+
+At present, the School headed by Dr. Saravanan R, has more than 3300 students and 153 core faculty members apart from many visiting professors, distinguished professionals from industry, eminent researchers and teaching/ research assistants. With an aim to carve a niche for itself in Computer Science and allied domains, the School strives to:
+
+Become a pioneering world-class centre of excellence in education and research through collaborative, consultative and participatory approaches
+Nurture effective capabilities for the development of high quality technical and scientific manpower to meet the challenges of the knowledge era
+Provide cost-effective Information and Communication Technology (ICT)-based solutions and value-added services to a variety of organisations and to meet the expectations of stakeholders
+
+
+The school has one of the best infrastructure including domain-specific labs associated with the above technical divisions- many of these labs are sponsored by industry leaders e.g. IBM, Cisco, Sun Microsystems, Red Hat and Microsoft. The School has a good record of organising seminars, workshops, symposia and conferences in emerging technological areas. With an objective of developing core competence in the respective subject matter specialisations and special interest groups for learning newer technologies, the School has formed the following seven technical divisions namely:
+
+Computer Architecture
+Software Systems
+Computer Networks
+Parallel and Distributed Computing
+Intelligent Systems
+Digital Media Computing
+Theoretical Computer Science and Language Translators
