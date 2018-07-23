@@ -2,6 +2,7 @@ import nltk
 from nltk.corpus import stopwords
 from bs4 import BeautifulSoup
 from collections import Counter
+from nltk.stem.porter import *
 
 with open('htmlfile.txt') as f:
     x = f.read()
