@@ -1,0 +1,633 @@
+
+
+
+
+
+
+DreamHost | Web Hosting For Your Purpose 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WordPress 
+
+
+
+WordPress Hosting
+WooCommerce Hosting
+Guide to WordPress
+
+
+
+
+
+
+
+Hosting 
+
+
+
+Hosting Overview
+Shared Hosting
+VPS Hosting
+Dedicated Hosting
+Cloud Hosting
+
+
+
+
+
+Website Builder
+Domain Names
+Blog
+
+
+Login 
+
+
+
+Web Hosting CP
+DreamCompute CP
+Remixer
+Webmail
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meet DreamHost
+
+Web Hosting with Purpose
+We make sure your website is fast, secure & always up -so your visitors & search engines trust you. Guaranteed.
+Starting at $3.95/mo
+Get Started
+
+
+
+
+
+
+
+
+
+PCMag's "Editors' Choice" Winner 4 Years In a Row
+
+
+
+
+
+We Get It. Your website is more than <code>.
+It's your baby, your brand, your business... Your website is an extension of you. That's why DreamHost is passionate about doing things right to ensure your success. No compromises, no excuses, and no cutting corners.
+
+
+
+Super Easy to Use
+Our custom control panel is simple to use and removes the headache of managing your web hosting.
+
+
+
+Full Featured
+We do more than web hosting. Our tool suite includes everything you need to be successful.
+
+
+
+Fast & Reliable
+If your website is slow or down, then you are losing customers, conversion and search engine rankings.
+
+
+
+24/7 Expert Support
+Our award-winning US-based experts are available to help when you get stuck -- anytime, day or night.
+
+
+
+
+
+
+
+Big or Small, Rookie or Professional --We Have a Hosting Solution For You
+Choose a platform
+
+
+Most Popular
+Shared Hosting
+Our most popular product! Shared Web Hosting gives you a free domain name, fast SSD storage and email hosting for your website
+Learn More
+
+
+VPS Hosting
+Virtual Private Servers with ultra-fast SSDs and flexibility with HTTP/2, Ubuntu, IPv6, Nginx, Node.js and more.
+Learn More
+
+
+WordPress Hosting
+Get up and running fast with WordPress. Optimized for performance and preconfigured for easy maintenance.
+Learn More
+
+
+
+
+Website Builder
+Easily create your own website with Remixer. Select a theme, customize it and get online today!
+Learn More
+
+
+Dedicated Hosting
+Fast web servers to run your applications with root access and a 100% Uptime Guarantee.
+Learn More
+
+
+Cloud Hosting
+Lightning-fast servers with root access, SSD storage and blazing-fast networking powered by open APIs through OpenStack.
+Learn More
+
+
+
+
+Or Choose a Domain
+
+
+
+Find your domain name
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Having trouble deciding? See how our products compare against each other.
+Close Comparison Table
+
+
+
+PRODUCT
+GREAT FOR...
+PRICE RANGE
+
+
+
+
+Shared Hosting
+Small personal sites
+$7.95/mo
+
+Learn More
+
+
+
+VPS Hosting
+Hosting small-to-medium sized business sites that require more power and speed than Shared Hosting.
+$13.75/mo - $110/mo
+
+Learn More
+
+
+
+WordPress Hosting (DreamPress)
+Hosting your WordPress site and not having to worry about plugin updates, backups, or security threats.
+$16.95/mo - $35.95/mo
+
+Learn More
+
+
+
+Website Builder (Remixer)
+Building a website without having to know code.
+FREE
+
+Learn More
+
+
+
+Dedicated Hosting
+LARGE websites and for users who need root access.
+$149/mo - $379/mo
+
+Learn More
+
+
+
+Cloud Hosting
+Creating simple cloud servers or advanced network configurations.
+$0.0075/hour - $0.08/hour
+
+Learn More
+
+
+
+
+
+
+
+
+
+
+1.5 Million Websites Rely on DreamHost to Power Their Dreams.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Iâve always appreciated how easy it is - how simple it is. Compared to other sites, itâs âbuy this, upgrade to thisâ. With DreamHost itâs been a clean and honest experience. Thereâs no massive marketing stuff all over the place.
+Peter K | J-Cakes.com
+Customer Since 2000
+
+
+
+
+Our clients and customers count on us to provide feature-rich eCommerce websites, and with DreamHost Dedicated Hosting we have confidence that our sites are secure, fast, and reliable. Dedicated Hosting has been an essential part of our growth and success.
+Laura Peters | funnychord.com
+Customer Since 2015
+
+
+
+
+I love that DreamHost has one-click WordPress installs, which make setup a breeze! The interface is the most user-friendly platform Iâve ever worked with after 10-plus years of trying out many other competitors. Iâm a happy, loyal, lifelong customer.
+Jennifer Emerling | jennemerlingweddings.com
+Customer Since 2008
+
+
+
+
+I've been a DreamHost customer ever since I first started doing web design. Their customer service is outstanding and their hosting is super reliable at an affordable price.
+Jeremiah S | Typewolf.com
+Customer Since 2011
+
+
+
+
+
+
+
+
+
+
+
+
+What Makes DreamHost So Different?
+With nearly 20 years of hosting experience, we focus on successful sites for web designers, developers, bloggers and online businesses. Our community and support helps you create a website fast and easy!
+
+
+
+Independently Owned
+As we've grown over the last two decades we've remained privately-owned, which allows us to stay true to our values and maintain our commitment to our community of customers.
+
+
+
+Passion for Privacy
+We believe in everyone's right to privacy, and we back that with a strong anti-spam policy and free WHOIS privacy.
+
+
+
+
+
+Commitment to Security
+Our many security features include Multi Factor Authentication, auto-enabled sFTP and free secure hosting with Let's Encrypt.
+
+
+
+Embrace Open Source
+We strongly believe in providing open source solutions to our customers whenever possible.
+
+
+
+
+
+24/7 Support
+Our in-house team members do their best to provide one-touch resolution, making you feel like a part of our family.
+
+
+
+100% Uptime Guaranteed
+We guarantee it so you donât have to worry about it.
+
+
+
+
+
+
+
+
+
+
+
+Host Your Website with Confidence
+We get it. Your website is your dream. We want to be the platform to help it succeed.
+Get Started
+
+
+
+
+
+
+
+
+
+Answers to Some of Your Most Pressing Questions
+
+
+
+What is Web Hosting?
+
+Web hosting allows businesses, organizations, and individuals to make their websites or apps visible on the internet. Whether theyâre using a dedicated server, or sharing resources, every website is hosted on a server. The only way for a website to be visible on the internet is if itâs hosted by a web hosting service provider, also known as a web host. In order to find a website, you type the domain name (or URL) into your browser. Your computer will then connect to the server where the website is hosted, and the webpage is delivered onto your screen.
+								
+
+
+
+What Are the Different Types of Web Hosting Products DreamHost Offers?
+
+DreamHost offers several different types of hosting plans that work for all website hosting needs.
+									Shared Hosting:
+Shared hosting is the most affordable option, but it does have its limitations. Shared hosting customers share the serverâs resources with other customers. If another website on the same server is receiving large amounts of traffic, or using a lot of the serverâs limited resources, it's possible that your site may run slower as a result.
+While DreamHost works hard to make sure all sites on a shared server never disrupt other sites, this is always a possibility due to the nature of the product. Thatâs why we recommend that you look at our more powerful options if youâre expecting to experience high traffic levels on your site.
+What can I host on shared hosting?
+Shared hosting is perfect for blogs, portfolios, personal/business sites, and database-driven sites.
+Learn more about shared hosting
+WordPress Hosting (DreamPress)
+DreamPress is DreamHost's managed WordPress hosting. It's a scalable service that allows users to manage their WordPress sites worry-free via automatic updates, caching, daily backups, and a content delivery network (CDN).
+Learn more about DreamPress
+VPS
+DreamHostâs Virtual Private Server (VPS) hosting is a premium solution that runs faster than our shared hosting. Itâs available as an add-on to an existing DreamHost plan, but also as a standalone service.
+DreamHostâs VPSs use Linux-VServer to create a "virtual machine" that protects a user's resources from others on the same physical machine. This allows for a more powerful solution.
+Shared vs. VPS Hosting
+On a shared server, resources are shared by other users. On a VPS, these resources are more isolated which improves performance and helps to maintain stability. You also have the ability to control how much RAM your server uses.
+What can I host on a VPS?
+A virtual private server is ideal for websites that require more resources than a shared server can provide, but may not need the full power of a dedicated server. VPS is ideal for businesses, ecommerce websites, designers, and developers that need unhindered performance.
+Learn more about VPS
+Dedicated
+A dedicated server is a server that only contains your files on it. You also get full root access: a major benefit if youâre looking to customize your server to fit your specific needs. Please note that DreamHost support cannot assist if any errors occur as a result of a customization.
+Another benefit of a dedicated server is that your MySQL server is on the same server, allowing for faster access. With all other hosting plans your MySQL database is on a separate database server.
+What can I host on a Dedicated server?
+Dedicated servers are fully-managed, business class servers. They are perfect for resource-heavy apps and giant websites.
+Learn more about dedicated hosting
+Cloud
+DreamHost offers two different cloud hosting products.
+Object Storage
+DreamObjects is a cost-effective cloud storage service, which you can use to host static data for your websites, store backups, or develop the next big thing. You can access DreamObjects in your panel using the built-in interface, programmatically via standard APIs, or with a growing library of applications. DreamObjects is compatible with the Amazon S3 API.
+Learn more about compatible applications with DreamObjects
+Learn more about DreamObjects here
+Cloud Computing
+DreamCompute is a highly scalable cloud computing service built to power:
+
+Web and mobile applications
+Digital media and e-commerce websites
+Big data
+Testing and development environments
+
+All instances can be managed through the DreamComputeâs dashboard built off of OpenStackâs Horizon.
+
+
+
+How Do I Buy a Domain Name?
+
+Buying a domain name with DreamHost is simple and comes with features that a lot of other hosts donât offer. Use our domain search tool to buy your desired domain name; weâll let you know if someone else has already purchased it, and will serve up alternative versions that are available.
+									After buying your domain name with DreamHost, youâll also receive:
+
+Free WHOIS Privacy Protection (which keeps your website registration details private)
+auto-renewals (so you donât have to worry about a lapse in ownership)
+unlimited subdomains (like blog.yoursite.com, or mexico.yoursite.com, for example)
+domain setting controls at your fingertips  (like MX records, CNAME, etc.)
+
+Try out our domains search tool and get online today.
+
+
+
+How Do I Migrate Over to DreamHost?
+
+If you want to move your web hosting to DreamHost, the first step is to create a DreamHost account â you can do that from any of our product pages (Shared Hosting, VPS, Dedicated, DreamPress) During the signup process, select the option to add your current domain to your new account â donât worry, this does NOT affect your current live website!
+									Next, youâll need to backup your website files and upload them to DreamHost. You can learn more about this here.
+Once youâve migrated your website to DreamHost's servers, youâll need to check the site to confirm that it looks and functions just as intended. If everything looks great, youâll need to point your DNS to DreamHost so people know where to find you! If this sounds complicated, donât worry. We have some documentation here on how itâs done.
+Have some questions before you get started? No worries. Get in touch with us and weâll be happy to help.
+
+
+
+Can You Help Me Understand More About WordPress?
+
+Definitely. We have some awesome WordPress guides that can help answer most of your questions. If you get stuck, we are always here to help as well.
+								
+
+
+
+Does DreamHost Offer an âEmail Onlyâ Hosting Plan?
+
+DreamHost does not offer an email only hosting plan. You must purchase a hosting plan that includes email service â Shared, VPS, DreamPress, or Dedicated. At this time DreamCompute only plans do not include email hosting.
+								
+
+
+
+Can I Talk to Support Even If Iâm Not a Current Customer?
+
+Of course! Visit our support page and select âSalesâ. Or, if youâre on our site between 8-4 PM PST, you can chat with us from any of our product pages (Shared Hosting, VPS, Dedicated, DreamPress).
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Questions? Comments? Concerns?
+Get in touch with us, and weâll get back to you ASAP.
+Email Us
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+WordPress Hosting
+Website Builder
+Shared Hosting
+Virtual Private Servers
+Dedicated Servers
+Domain Names
+Monthly Web Hosting
+
+Legal
+
+Legal Information
+Privacy Policy
+Report Abuse
+Terms of Service
+WHOIS Lookup
+
+
+
+Company
+
+About
+Affiliates
+Blog
+Careers
+Community
+Contact
+News
+Green Hosting
+Partners
+Press Releases
+
+Login
+
+Web Hosting
+DreamCompute
+Website Builder
+Webmail
+
+
+
+Support
+
+Knowledge Base
+Forums
+System Status
+
+Follow Us
+
+
+
+
+
+
+
+
+Copyright © 2018 DreamHost, LLC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
