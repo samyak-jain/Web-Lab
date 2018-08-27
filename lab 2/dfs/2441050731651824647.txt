@@ -1,0 +1,942 @@
+
+
+
+
+
+
+
+WordPress Hosting | Fast & Easy WordPress Web Hosting 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limited time! Save 28% on .COM New Domain Registrations. Offer ends soon.  
+
+
+
+
+
+
+
+
+
+
+
+WordPress 
+
+
+
+WordPress Hosting
+WooCommerce Hosting
+Guide to WordPress
+
+
+
+
+
+
+
+Hosting 
+
+
+
+Hosting Overview
+Shared Hosting
+VPS Hosting
+Dedicated Hosting
+Cloud Hosting
+
+
+
+
+
+Website Builder
+Domain Names
+Blog
+
+
+Log In
+
+
+
+Web Hosting CP
+DreamCompute CP
+Remixer
+Webmail
+
+
+
+
+Get Started
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WordPress Hosting
+
+
+Performance comes standard
+
+
+Managed Performance, Security, & Updates
+Powerful WordPress Tools: Server Caching, Daily Backups, CDN
+24x7 Award Winning Support
+Email*, 1-click SSL & Privacy Included 
+Quick & Easy-To-Use Custom Control Panel
+
+WordPress Hosting plans starting at $2.59/mo
+See All WordPress Plans
+
+
+
+
+DreamHost is Officially Recommended by WordPress.org
+
+
+
+
+
+WordPress Hosting Plans
+You haven't seen WordPress, until you see WordPress Hosted on the Cloud.
+
+
+Annual Hosting
+Monthly Hosting
+
+
+
+Value
+
+
+
+
+Shared Starter
+
+
+
+Shared Starter
+Shared Unlimited
+
+
+
+
+Great for:
+Great for small WordPress sites, and anyone who is looking for an affordable WordPress solution. Start with Shared WordPress Hosting and easily upgrade to DreamPress when ready.
+
+Starting at just
+
+$2.59/mo
+
+
+$4.95/mo
+
+
+Shared Hosting Server
+1 WordPress Website
+Unlimited Traffic
+Fast SSD Storage
+1-Click SSL Certificate
+Upgrade to Add Email
+24/7 Support
+ 
+
+
+Sign Up Now
+
+
+Sign Up Now
+
+
+
+High Performance
+
+
+
+
+DreamPress 
+
+
+
+DreamPress
+DreamPress Plus
+DreamPress Pro
+
+
+
+
+Powerful WordPress Hosting for sites & businesses that expect performance. DreamPress comes with built in tools and is optimized for WordPress. 
+
+Starting at just
+
+$16.95/mo
+
+
+$19.95/mo
+
+
+Fast Cloud Server
+1 WordPress Website
+10k Monthly Site Visitors
+30GB SSD Storage
+1-Click SSL Certificate
+Email Hosting
+24/7 Support
+Jetpack Free Preinstalled
+
+
+Sign Up Now
+
+
+Sign Up Now
+
+
+
+
+
+WordPress Custom Plans
+
+Have lots of traffic? Or need an Agency Plan?
+Get in touch with us to create a custom managed WordPress solution, perfect for large sites or agencies managing multiple clients. From 100k to 1m+ visits a month, our experts will work with you to build a solution that delivers on expectations.
+
+
+Email Us
+
+
+Call Us
+M-F, 9-5pm PT
+
++1 (323) 484-1199
+
+
+
+
+
+
+
+
+
+
+Our Commitment
+
+
+SPEED
+LIGHTNING FAST PAGE LOADS
+WordPress Hosted on the Cloud boosts page load times and allows for scale when traffic spikes.
+
+
+
+SECURITY
+BUILT-IN SAFEGUARDS
+We update, monitor, and protect your WordPress site to stop disasters before they strike.
+
+
+
+SUPPORT
+EXPERT HUMANS TO HELP
+Attentive, approachable WordPress Specialists devoted to your success.
+
+
+
+
+
+
+Everything You Need For WordPress to Take Off
+
+
+
+
+
+All WordPress Plans
+DreamPress
+
+
+
+
+
+
+Automatic WordPress Updates
+We update your site to the latest WordPress and security updates - often within hours of release - to protect you from newly discovered vulnerabilities.
+
+
+
+WordPress Preconfigured
+We install WordPress along with a number of battle-tested themes and plugins with every site, letting you avoid menial setup grunt work.
+
+
+
+FREE SSL Security
+We include a 1-click Letâs Encrypt SSL certificate so the data passed between you and your siteâs visitors is always safely encrypted.
+
+
+
+
+
+Fast SSD Storage
+All your files are stored on high-performance solid-state drives, giving you up to 200% better performance than traditional hard drives, or âspinning rustâ as we like to say.
+
+
+
+Domain Privacy
+We're committed to your privacy. Unlike most providers, we still don't charge a fee to mask your personal information to safeguard you from creepers. $12/year value!
+
+
+
+Unlimited Email @ Your Domain
+Create as many addresses as you want with POP/IMAP/SMTP accounts. Plus support for autoresponders, webmail, filtering rules, and advanced spam protection.
+
+
+
+
+
+
+Custom Control Panel
+We've designed and built our control panel and dashboards entirely in-house, giving us plenty of flexibility to build the features and functionality that make managing WordPress easy.
+
+
+
+Web Application Firewall (WAF)
+Dual WordPress-optimized WAFs fight off malicious HTTP traffic, provide brute-force mitigation, and ensure your site and server remains safe and accessible. $250/year value.
+
+
+
+Complete Domain Management
+Manage as many domain registrations as you like with complete support for parked domains, subdomains, Custom DNS, and more. Become a true master of your domain with DreamHost.
+
+
+
+
+
+SFTP Access
+FTP is old, slow, insecure, and just plain gross. So weâve phased out FTP at DreamHost in favor of SFTP, the encrypted, modern take on an old file transfer classic.
+
+
+
+SSH Access
+Optionally available for power users, SSH allows you to manage your website via command line shell access. We disable it by default for security reasons, but if you are sure you know what youâre doing, we'll happily flip that switch for you.
+
+
+
+WP-CLI
+Interact with your site from the command line - or even programmatically - with WP-CLI. We sponsor WP-CLI and have been among the first to include advanced commands like wp-doctor and wp-profile.
+
+
+
+
+
+
+
+
+
+Server-Level Caching
+With Memcached, Varnish, OPcache, and more baked into the server environment itself, you never have to bother with complex caching plugins again.
+
+
+
+Fast Provisioning
+Thanks to our powerful and scalable cloud architecture, launching a DreamPress instance to power your next website project happens in under 5 minutes.
+
+
+
+Instant Upgrades
+If your site grows in size and popularity itâll need what Arnold Schwarzenegger calls - MORE POWAH! No machine guns required â upgrade to a more powerful plan with just a click.
+
+
+
+
+
+Object Caching
+We use Memcached as a persistent caching layer for your database, pre-fetching data and serving it up faster than the underlying database could ever do on its own. This, along with opcache to optimize PHP functions places a lower workload on the server and lets you handle more concurrent visitors.
+
+
+
+Varnish Caching
+Varnish sits between NGINX and Apache web servers, speeding up your site's performance and completely negating the need for any of WordPressâ many caching plugins. Server-level content caching is the future. True, we said that about mylar jumpsuits in the 90s, but we mean it this time.
+
+
+
+Brotli Compression
+The smaller your site, the faster it runs. Weâve baked in Googleâs Brotli compression software right into all our servers to help improve delivery times for sites of all sizes.
+
+
+
+
+
+HTTPS By Default
+All DreamPress sites are automatically configured with HTTPS, encrypting traffic between your site and its visitors (and even boosting your SEO) without any extra work. Secure certificates from âLetâs Encryptâ bring encryption to the masses.
+
+
+
+NGINX with HTTP2 Enabled
+The latest and greatest in open source web server technology, these two components bring the promise of the modern web thanks to significant performance improvements over their predecessors.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Managed WordPress is Perfect for…
+
+
+
+Bloggers
+
+
+
+Small Business
+
+
+
+eCommerce
+
+
+
+Designers
+
+
+
+Developers
+
+
+
+
+
+
+
+Bloggers
+Building an audience isn't easy. It takes commitment, passion, and drive. You don't have time to spend managing servers,
+						tweaking PHP versions, or worrying about whether or not your site's been hacked. DreamPress' automatic updates and
+						strong security defenses take the heavy-lifting server management part of WordPress off your hands so you can focus
+						on creating great content that keeps your readers coming back for more. And the fact that it's blazing fast, so your
+						readers don't have to wait for your pages to load, is just icing on the cake.
+
+
+
+
+
+
+
+Small Business
+You've got a website for a reason: getting customers. Whether it's showing people your menu or convincing them to fill
+						out your contact form, performance is key - every study shows that the faster the site, the better visitors convert.
+						DreamPress' high-performance architecture gives your visitors a first impression that matters. And not only is DreamPress
+						built on our incredibly stable cloud technology, it's designed to accommodate seamless resource upgrades so your online
+						presence remains open for business – no matter what.
+
+
+
+
+
+
+
+eCommerce
+Conversions, conversions, conversions. Running a successful eCommerce business comes down to making sales. Performance
+						is key; Google and Amazon know that the faster the page, the more customers buy. Let us take care of that performance
+						for you, on DreamPress' stable and blazing-fast cloud architecture. Our WooCommerce-optimized plans make sure that
+						you can build any type of storefront you want, easily and quickly. And with the security of dual firewalls and an integrated
+						malware scanner, you can rest easy knowing buyers can find you anytime, day or night.
+
+
+
+
+
+
+
+Designers
+Nothing disappoints a client more than a demo site that takes forever to load. Let DreamPress' speed work to your advantage
+						by delivering a powerful – and fast – first impression. And when your design turns to implementation, don't
+						worry about whether or not that plugin you need is "off-limits;" our do-what-you-want plugin policy means that you
+						can use it. Plus, our dual web firewalls and malware scanner keep your sites safe and let you focus on what really
+						matters: the user experience.
+
+
+
+
+
+
+
+Developers
+DreamPress by developers, for developers. We built our OpenStack cloud platform for our own use. Now
+						you can take advantage of our cloud infrastructure. DreamPress handles all the caching, backups, and security for you,
+						so you can focus on building the features and tools that your customers are asking for. Available staging sites mean
+						that your workflow works for you, not the other way around. And DreamPress' blazing speed and unlimited plugin policy
+						gives you the flexibility to build what you need to, how you need to.
+
+
+
+
+
+
+
+
+See What Others Are Saying
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DreamHost is one of the few hosting companies that actually know WordPress. Their team is top-notch,
+									and they are always ahead of the curve when it comes to their technology stack. We have referred hundreds of
+									customers their way and they have never let us down.
+Syed Balkhi | wpbeginner.com
+Customer Since 2015
+
+
+
+
+DreamPress really has been a key product in helping grow our online publishing business. We've been able to scale
+									a website going from a few thousand visitors to around a million page views per month while keeping our hosting
+									costs way lower than I ever expected.
+Brian | welikela.com
+Customer Since 2008
+
+
+
+
+Every time I use DreamHost live chat, I get a quick answer. The best thing is that I don't have to talk to you
+									much! Everything works most of the time so I can focus on writing Nintendo news.
+Justin | purenintendo.com
+Customer Since 2009
+
+
+
+
+We found that Dreamhost had the best tech and infrastructure to keep websites running smoothly and fast. We try
+									to make our website as lean as possible, but Dreamhost helps with the rest by providing access to fast hosting
+									to deliver that.
+Mike | thinkenvy.com
+Customer Since 2013
+
+
+
+
+
+
+
+
+
+
+
+
+Our Latest WordPress Tips, Guides, & Articles
+
+
+
+What is WordPress?
+
+It's a great question and asked by more than you would think. The short answer is WordPress is a simple way to managed
+								your content, commonly referred to as a content managed system or CMS. The long answer is much more complicated.
+								Read More
+
+
+
+
+What is WordPress Hosting?
+
+With the use of over 50 thousand extensions (called plugins) and tens of thousands of themes to help design your site,
+								WordPress can be practically anything. It's even great for SEO and all you need to use it is a hosting plan on a
+								webhost, like DreamHost.
+							
+
+
+
+What's the difference between Managed WordPress Hosting and Shared Hosting?
+
+The difference between Managed and Shared Hosting is deceptively complicated, and comes down to the intent
+								of use. That is not to say how you intend to use the server, but how your webhost intends your server to be used.
+								It's very easy to get confused about this.
+								Read More
+
+
+
+
+What is Managed WordPress Hosting?
+
+While nearly any server can run WordPress, many hosting companies like DreamHost have put time and effort into customizing
+								servers just for WordPress.
+							
+
+
+
+Do I need Managed WordPress Hosting?
+
+The ultimate decision comes down to understanding what you need and want from your website, and understanding what
+								those entail.
+								Read More
+
+
+
+
+Get Started with WordPress
+
+WordPress is an amazing platform and once up and running is very easy to use. However, getting started and setting
+								up takes a little bit of hand holding.
+								Read More
+
+
+
+
+
+
+
+
+
+
+Jumpstart your WordPress Site
+
+
+
+
+
+
+
+WordPress Intro & FAQs
+A great overview of five common questions about WordPress, including what it is, the hosting options available for the platform, and the tools you'll need to build the site you want.
+Learn More
+
+
+
+
+
+
+
+
+
+
+Setup and Install WordPress
+Learn to implement WordPress like a pro! We'll walk you through the setup and WordPress installation process, before discussing how to choose a suitable theme.
+Learn More
+
+
+
+
+
+
+
+
+
+
+Themes, Menus, and Plugins
+Become familiar with how to set up WordPress themes, plugins, menus, and other key elements.
+Learn More
+
+
+
+
+
+
+
+
+
+
+WordPress Guide: Page and Posts
+Understand the various options WordPress provides for building content and displaying it effectively.
+Learn More
+
+
+
+
+
+
+
+
+
+
+WordPress Optimization
+Optimize your site to avoid long loading times and poor performance.
+Learn More
+
+
+
+
+
+
+
+
+
+
+WooCommerce vs Shopify
+It's on! The Ultimate Guide to WordPress & eCommerce: WooCommerce vs Shopify.
+Learn More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Have Questions?
+Whether you need help or just want some tips on where to start, get in touch with our experts anytime.
+
+Email Us
+
+
+Chat With Us
+8am - 4pm PT
+
+
+
+
+
+
+
+
+
+
+
+
+close x
+
+
+
+
+
+How Do You Plan To Use WordPress?
+Please Select an Option
+
+-- Select --
+Non-Profit
+Personal Site
+Small Business
+Blogging
+Other
+
+
+
+DreamPress non-profit Discount
+Thanks for your interest in DreamHost's non-profit discounted hosting plan. Please follow the steps outlined in our documentation in order to purchase your non-profit hosting plan.
+DreamPress non-profit Discount Documentation
+
+
+
+
+First Name
+
+
+
+Last Name
+
+
+
+
+
+Email Address
+
+
+
+Phone Number
+
+
+
+
+
+Website Address
+
+
+
+Comment
+
+
+
+
+
+Please complete reCAPTCHA
+
+
+
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+WordPress Hosting
+Website Builder
+Shared Hosting
+Virtual Private Servers
+Dedicated Servers
+Domain Names
+Monthly Web Hosting
+
+Legal
+
+Legal Information
+Privacy Policy
+Report Abuse
+Terms of Service
+WHOIS Lookup
+
+
+
+Company
+
+About
+Affiliates
+Blog
+Careers
+Community
+Contact
+News
+Green Hosting
+Partners
+Press Releases
+
+Login
+
+Web Hosting
+DreamCompute
+Website Builder
+Webmail
+
+
+
+Support
+
+Knowledge Base
+Forums
+System Status
+
+Follow Us
+
+
+
+
+
+
+
+
+Copyright © 2018 DreamHost, LLC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

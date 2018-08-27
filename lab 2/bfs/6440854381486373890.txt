@@ -1,0 +1,811 @@
+
+
+
+
+
+
+
+VPS Hosting | Fully Managed Virtual Private Servers  – DreamHost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limited time! Save 28% on .COM New Domain Registrations. Offer ends soon.  
+
+
+
+
+
+
+
+
+
+
+
+WordPress 
+
+
+
+WordPress Hosting
+WooCommerce Hosting
+Guide to WordPress
+
+
+
+
+
+
+
+Hosting 
+
+
+
+Hosting Overview
+Shared Hosting
+VPS Hosting
+Dedicated Hosting
+Cloud Hosting
+
+
+
+
+
+Website Builder
+Domain Names
+Blog
+
+
+Log In
+
+
+
+Web Hosting CP
+DreamCompute CP
+Remixer
+Webmail
+
+
+
+
+Get Started
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Managed VPS Hosting
+
+
+Virtual Private Servers
+
+
+Expect More From Your Website or App
+
+
+Managed Performance, Security, & Updates
+Unhindered performance with your own server resources
+Quick & easy to use custom control panel
+Unlimited bandwidth & traffic
+Expandable RAM & storage
+SSDs, email, SSL, & unlimited domains included
+US-Based VPS
+
+Starting at $13.75/mo
+Buy VPS Web Hosting
+Looking for root access? Check out our Cloud Servers
+
+
+
+
+
+Virtual Private Server Provider — Built For:
+Websites
+Apps
+Businesses
+
+
+
+
+
+VPS Hosting Plans
+Big or small, website or application - we have a VPS configuration for you.
+
+
+
+Basic VPS
+							
+For New & Small Websites
+
+
+$13.75/mo
+
+
+
+1 GB RAM
+
+
+30 GB Storage
+Unlimited Bandwidth
+Unlimited Hosted Domains
+Linux Ubuntu OS
+Fully Managed Service
+
+
+
+How would you like to pay?
+
+Monthly
+$15
+
+
+Yearly
+$13.75/mo
+
+Pay $165 at checkout
+
+
+Back to plan details
+
+Get Basic VPS
+
+
+Business VPS
+							
+Perfect for small Business
+
+
+$27.50/mo
+
+
+
+2 GB RAM
+
+
+60 GB Storage
+Unlimited Bandwidth
+Unlimited Hosted Domains
+Linux Ubuntu OS
+Fully Managed Service
+
+
+
+How would you like to pay?
+
+Monthly
+$30
+
+
+Yearly
+$27.50/mo
+
+Pay $330 at checkout
+
+
+Back to plan details
+
+Get Business VPS
+
+
+
+
+Professional VPS
+							
+For resource intensive sites
+
+
+$55/mo
+
+
+
+4 GB RAM
+
+
+120 GB Storage
+Unlimited Bandwidth
+Unlimited Hosted Domains
+Linux Ubuntu OS
+Fully Managed Service
+
+
+
+How would you like to pay?
+
+Monthly
+$60
+
+
+Yearly
+$55/mo
+
+Pay $660 at checkout
+
+
+Back to plan details
+
+Get Professional VPS
+
+
+Enterprise VPS
+							
+ High Traffic, high resource
+
+
+$110/mo
+
+
+
+8 GB RAM
+
+
+240 GB Storage
+Unlimited Bandwidth
+Unlimited Hosted Domains
+Linux Ubuntu OS
+Fully Managed Service
+
+
+
+How would you like to pay?
+
+Monthly
+$120
+
+
+Yearly
+$110/mo
+
+Pay $1320 at checkout
+
+
+Back to plan details
+
+Get Enterprise VPS
+
+
+
+
+
+
+
+
+When You Expect Performance — Get a VPS
+
+
+
+
+Resources Dedicated To You
+
+Each virtual server hosting plan allocates resources that only your website can use. This equals unrivaled power, low
+						latency and high performance... because seconds count.
+
+
+
+
+Easy to Setup & Manage
+
+Performance wouldn't matter if setup was hard. DreamHost's custom control panel is simple yet powerful. Have your site
+						up in minutes.
+
+
+
+
+
+
+You're Growing - Your Virtual Server can to
+
+As you grow, have peace of mind that your host will grow with you. Upgrade RAM and storage in under 10 seconds.
+
+
+
+
+The Total Package Included
+
+Pay one price and get it all. Included with each VPS plan are SSDs, email, 1 click SSL, unlimited domains, privacy and
+						many other powerful features.
+
+
+
+
+
+DreamHost Virtual Private Servers Include
+
+
+
+Core VPS Features
+Advanced Managed VPS Features
+
+
+
+
+
+
+
+Managed
+
+Enjoy friendly, smart assistance from our world-class Technical Support and Operations teams. Our experts keep your
+							server running & up-to-date with security patches, OS updates, and more.
+
+
+
+
+Unlimited 24/7 Support
+
+Our expert Technical Support team is on standby to diagnose and solve any issues you encounter. No question is too basic
+							or complex.
+
+
+
+
+VPS Control Panel
+
+The DreamHost control panel is straightforward and simple. Weâre a company run by developers who build and maintain
+							websites, and our pro-level control panel shows it.
+
+
+
+
+
+
+100% Uptime Guarantee
+
+Our business-class track record means some of the industryâs best uptime performance. Weâre so confident in our infrastructure,
+							we back your site up with a 100% uptime guarantee.
+
+
+
+
+Solid State Drives (SSD)
+
+20x faster than standard SATA disk drives, we provide all new virtual private servers with high performance SSD hard
+							drives that range from 30GB to 240GB.
+
+
+
+
+Unlimited Website Hosting
+
+Host an unlimited number of domains and websites on your VPS server.
+
+
+
+
+
+
+Scalable RAM
+
+Growing quickly? Start with 1GB of RAM and easily scale up, quickly and effortlessly from within your VPS control panel.
+
+
+
+
+Unlimited Bandwidth
+
+There are no limits on the amount of traffic your VPS hosted site or app can receive. All we ask is that you be nice
+							and comply with our unlimited policy.
+
+
+
+
+Reseller and Sub Account Features
+
+Create an unlimited number of sub accounts to help you manage client accounts, client and contractor website access,
+							FTP, and billing.
+
+
+
+
+
+
+SSL/TLS Certificate
+
+Free secure certificates through the Letâs Encrypt project encrypt all traffic between your website and its visitors.
+
+
+
+
+Unlimited MySQL Databases
+
+MySQL is the workhorse of the web database world, and we even offer a VPS option pre-configured to deliver an optimized
+							MySQL experience. Easily set up and create MySQL databases within your control panel.
+
+
+
+
+Unlimited Email Accounts
+
+Create enough email accounts to give to all your friends, family, associates, pets, and postal workers. Itâs a nice
+							gesture.
+
+
+
+
+
+
+
+
+Automatic Software Updates
+
+Save time as our experts handle installation of security patches, Ubuntu OS updates, PHP releases, and the latest WordPress
+							versions.
+
+
+
+
+Apache or Nginx
+
+When it comes to web servers, one size does not fit all! Choose between Apache or Nginx.
+
+
+
+
+Unique IPv4 and IPv6
+
+Get an IPv4 address and future-proof your account with an unlimited number of free IPv6 addresses.
+
+
+
+
+
+
+Unlimited SFTP Users
+
+Grant access to the people you trust with secure logins to your data.
+
+
+
+
+PHP7/Perl/Python
+
+Ah yes, the three Ps. Build something great.
+
+
+
+
+Node.js
+
+Node.js works best in a powerful VPS environment. Let your server-side JavaScript freak flag fly!
+
+
+
+
+
+
+Ruby Version Manager (RVM)
+
+Need more than one version of Ruby? RVM makes it easy.
+
+
+
+
+One-Click Application Installer
+
+WordPress is just a click away. Our automated installer installs WordPress and several other web apps in just seconds!
+
+
+
+Secure Shell (SSH) Access
+
+Live the command-line life. Gain secure remote access and get down to business.
+
+
+
+
+
+
+OPcache
+
+OPcache makes PHP scream by compiling your code once and storing it in memory. Silently. Always watching. Always ready.
+							Like a jilted lover. Or a trained killer.
+
+
+
+
+Phusion Passenger
+
+Unlock the power of Apache with Ruby, Python, and Node.js working together atop Phusion Passengerâs optimized platform.
+
+
+
+
+Crontab Access
+
+Automate even the most obnoxious command-line tasks with access to Cron, a time-based job scheduler.
+
+
+
+
+
+
+Subversion Repository (SVN)
+
+Working in teams on the same web app or web site means youâll step on each otherâs toes from time to time. SVN keeps
+							it all straight and minimizes conflicts.
+
+
+
+
+Access to Raw Log Files
+
+If the devil told you he wasnât evil, would you trust him? Youâll be able to run your siteâs raw log files through your
+							log analyzer of choice and - bonus - you wonât sacrifice website load times due to embedded external trackers.
+
+
+
+
+Password Protection (.htaccess)
+
+Password-protect any directories on your website for âmembers onlyâ access to sensitive content.
+
+
+
+
+
+Looking for more technical specs?
+				See our VPS knowledge base
+
+
+
+
+
+Supercharge Your MySQL Database
+Enhance the performance of any managed VPS plan by selecting a MySQL VPS during checkout. This optional add-on service
+				includes an isolated managed VPS optimized to deliver peak MySQL performance. Dedicated resources mean quicker page loads
+				-- and happier users! Get started with a one-week free trial.
+
+Learn More About Managed MySQL VPS
+
+
+
+
+
+
+Frequently Asked Questions About our Virtual Server Hosting
+
+
+
+
+								What is VPS hosting and virtual servers?
+							
+
+VPS is short for
+									virtual private server and is also known as a
+									virtual server. VPS Hosting is a hosting solution for websites and applications, where server resources are
+									isolated for individual users. VPS users experience more consistent performance, which translates to more responsive
+									and faster websites.
+
+
+
+
+								What is the difference between a virtual server and a dedicated server?
+							
+
+A virtual server and a dedicated server differ by the number of users that possess resources on a physical server.
+									With a virtual private server, some of the resources are isolated for individual users, but there are multiple users
+									on the same physical server. With a dedicated server, a single user has access to all of the resources of a physical
+									server. 
+Learn More
+
+
+
+
+								Does DreamHost offer VPS hosting with
+								root access?
+							
+
+Our Managed Virtual Servers do not offer root access. However, many of our customers who require full control use
+									our cloud servers, which have root level access.
+Learn More
+
+
+
+
+
+
+								What is the difference between shared hosting and VPS hosting?
+							
+
+The difference between shared and VPS hosting comes down to three things: resources, price, and performance.
+
+
+Resources — Plain and simple, shared hosting is sharing a server with other websites, where VPS hosting
+										provides server resources dedicated to you.
+
+Pricing — Shared hosting is generally cheaper because resources are shared with more users. Virtual Servers
+										on the other hand, generally have fewer websites, but are more expensive.
+										
+Performance — The reason most people choose VPS over shared is because of performance. Their website
+											or application has heavy resource demands, or they have a higher expectation of performance. VPS powered websites,
+											when managed correctly (like we do here at DreamHost), are much faster and more responsive. 
+
+Learn More
+
+
+
+
+								Does DreamHost offer Windows VPS hosting?
+							
+
+No, we do not have Windows VPS hosting options. Our VPS solution uses Linux.
+
+
+
+
+
+
+
+
+
+
+Unmanaged VPS Powered by the Cloud
+Our unmanaged VPS is powered by DreamCompute, our cloud computing platform. DreamCompute harnesses the power of the Open
+					Web and the OpenStack cloud stack to give you full control of virtual machines with full root access. DreamCompute is
+					the ultimate experience for power users.
+
+Learn More about DreamCompute
+
+
+
+
+
+Highest Rated Web Host by PCMag.com
+
+
+9.7
+Overall
+
+
+9.7
+Reliability
+
+
+9.9
+Tech Support
+
+
+9.6
+Likelihood to Recommend
+
+
+
+
+
+
+
+
+
+Get Started with VPS Web Hosting
+
+Enough talk! Unleash the power, speed, and stability of DreamHostâs VPS hosting today!
+Let's Get Started!
+
+
+
+
+
+
+
+
+
+Products
+
+WordPress Hosting
+Website Builder
+Shared Hosting
+Virtual Private Servers
+Dedicated Servers
+Domain Names
+Monthly Web Hosting
+
+Legal
+
+Legal Information
+Privacy Policy
+Report Abuse
+Terms of Service
+WHOIS Lookup
+
+
+
+Company
+
+About
+Affiliates
+Blog
+Careers
+Community
+Contact
+News
+Green Hosting
+Partners
+Press Releases
+
+Login
+
+Web Hosting
+DreamCompute
+Website Builder
+Webmail
+
+
+
+Support
+
+Knowledge Base
+Forums
+System Status
+
+Follow Us
+
+
+
+
+
+
+
+
+Copyright © 2018 DreamHost, LLC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

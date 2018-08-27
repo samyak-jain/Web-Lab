@@ -1,0 +1,368 @@
+
+
+
+
+
+What applications are compatible with DreamObjects? – DreamHost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DreamHost.com
+Contact Support
+
+
+
+
+
+
+
+
+            English (US)
+          
+
+
+
+
+                Español
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DreamHost
+
+
+DreamObjects Cloud Storage
+
+
+Basics
+
+
+
+
+Facebook
+Twitter
+LinkedIn
+Google+
+
+
+
+
+ What applications are compatible with DreamObjects?
+
+Arq
+
+Arq is a Mac and Windows app that allows you to make online backups. Arq backups are encrypted with a password before they’re uploaded so your data is protected.
+Check out the Arq DreamObjects tutorial for more info
+AWS CLI
+AWS CLI is:
+
+a command-line tool for uploading, retrieving, and managing data in Amazon S3 and other Cloud Storage Service Providers that use the S3 protocol such as DreamHost DreamObjects.
+best suited for power users who don’t fear command line.
+ideal for scripts, automated backups triggered from cron, and so on.
+
+Check out the AWS CLI DreamObjects tutorial for more info
+Boto-Rsync
+boto-rsync is an rsync-like tool that leverages boto to synchronize files with an object storage service such as DreamObjects.
+
+
+
+The creator of boto-rsync is no longer developing it, so there may be bugs and missing features. DreamHost has forked the code (available at github) and fixed some issues related to unicode, multipart uploads, and multiprocessing.
+
+
+Check out the Boto-Rsync DreamObjects tutorial for more information.
+CloudBerry
+
+CloudBerry Backup is a Windows program that automates encrypted and compressed data backups.
+Check out the CloudBerry DreamObjects tutorial for more info
+CrossFTP
+
+CrossFTP is a powerful FTP and S3 client that you can use to connect to DreamObjects. It is available on Windows, Mac, and Linux.
+Check out the CrossFTP DreamObjects tutorial for more info
+Cyberduck
+Cyberduck is an FTP, SFTP, and WebDav client as well as a cloud storage browser for Mac and Windows. You can use Cyberduck to connect to your DreamObjects account.
+Check out the Cyberduck DreamObjects tutorial for more info
+Dropshare
+Dropshare is a so-called menulet for OS X. It enables you to drag & drop files, folders, and anything else to your own server, DreamObjects, or other cloud services. Once uploaded, the app copies the link to the file to your Mac’s clipboard. You can then share with anyone you like.
+Check out the Dropshare DreamObjects tutorial for more information.
+
+ExpanDrive
+ExpanDrive is an app that allows you to connect to DreamObjects just like a USB drive. It is available for both Mac and Windows and allows you to access DreamObjects from any application on your computer.
+Check out the ExpanDrive DreamObjects tutorial for more information.
+
+
+GoodSync
+
+GoodSync is an easy, secure, and reliable file synchronizer. The free version is limited to 3 jobs or less and 100 or less files and folders in each job.
+
+
+
+Many customers have reported issues with GoodSync failing with files larger than 100MB. Until a solution is found, it’s recommend that you use another client.
+
+
+Check out the GoodSync DreamObjects tutorial for more information.
+
+S3 Browser
+
+S3 Browser is a free Windows S3 client providing a simple web interface you can use to store and retrieve data.
+View the S3 Browser site for more information.
+S3cmd
+S3cmd is:
+
+a command-line tool for uploading, retrieving, and managing data in Amazon S3 and other Cloud Storage Service Providers that use the S3 protocol such as DreamObjects.
+best suited for power users who don’t fear command line.
+ideal for scripts, automated backups triggered from cron, and so on.
+
+Check out the S3cmd DreamObjects tutorial for more information.
+
+Synology
+NAS devices are great, but what if your house goes up in flames? You could stand to lose everything! Family photos from years ago, all of your music, videos, tax returns, digital financial documents… all gone!
+That’s why you should back up your NAS regularly. Synology’s made this easy by providing both native cloud backup functionality and an optional (free) cloud “sync” app.
+Check out the Synology DreamObjects tutorial for more information.
+
+
+Transmit
+
+Transmit is an FTP client for Mac OS X developed by Panic which also includes capabilities to mount SFTP, Amazon S3, and WebDAV connections. The client is a shareware so it’s free to evaluate, but after the trial period is over you’re limited to seven-minute sessions.
+Check out the Transmit DreamObjects tutorial for more information.
+
+
+Transmit iOS
+
+Transmit iOS is an FTP client for iOS devices (iPhone or iPad). Developed by Panic, it also includes capabilities to mount SFTP, Amazon S3, and WebDAV connections. The client must be purchased in the Apple App store and includes many features, including the capability of mounting the DreamObjects protocol natively.
+Check out the Transmit iOS DreamObjects tutorial for more information.
+
+
+UpdraftPlus
+UpdraftPlus brings reliable, easy-to-use backups, restores and site copies (clones/migrations) to your WordPress site.
+Check out the UpdraftPlus DreamObjects tutorial for more information.
+
+
+QNAP
+If you have a QNAP network attached storage (NAS) device, you can now back it up to DreamObjects. There is now an application available for your QNAP that allows you to easily back up your data to DreamObjects for disaster recovery and long-term archiving.
+Check out the QNAP DreamObjects tutorial for more information.
+
+Start Storing Your Data Today!
+Sign Up for DreamObjects
+
+
+
+
+
+Arq-icon.png
+(20 KB)
+
+
+Banner_cloudberry1.png
+(30 KB)
+
+
+Banner_crossftp1.png
+(30 KB)
+
+
+cyberduck.png
+(20 KB)
+
+
+duplicati.png
+(20 KB)
+
+
+Banner_goodsync2.png
+(30 KB)
+
+
+Transmit_icon.png
+(30 KB)
+
+
+sharex-logo.png
+(20 KB)
+
+
+Transmit-ios-logo.png
+(10 KB)
+
+
+
+
+
+
+
+
+
+
+Did this article answer your questions?
+Yes
+No
+
+
+Sending feedback...
+
+
+      This form is only for article feedback. If you require assistance, please contact support.
+      
+      How can we improve this page?
+      
+
+
+
+
+
+
+Thank you for your feedback!
+
+
+We'll use it to improve the Knowledge Base.
+
+
+
+If you still require assistance, and you're an existing DreamHost customer, please contact support.
+If you're not a customer yet, please contact our sales team for further assistance.
+
+
+
+
+Article last updated July 18, 2018 23:29 PST.
+        
+
+Facebook
+Twitter
+LinkedIn
+Google+
+
+
+
+
+
+
+Related articles
+
+
+Cyberduck
+
+
+UpdraftPlus
+
+
+How to host static website files with DreamObjects
+
+
+Cluster migration procedure
+
+
+Email migration
+
+
+
+
+
+
+
+
+Still not finding what you're looking for?
+Contact our support team with any additional questions or concerns.
+Contact Support
+
+
+
+
+
+Get Started
+DreamHost.com
+Sign Up
+Log In
+
+
+Services
+Domains
+Web Hosting
+VPS Hosting
+Dedicated Servers
+
+
+ 
+WordPress Hosting
+Cloud Storage
+Cloud Computing
+
+
+Company
+About
+Blog
+Careers
+Press & News
+
+
+ 
+Affiliates
+Partners
+Green Hosting
+Legal
+
+
+Support
+Contact
+Forums
+Report Abuse
+
+
+
+Terms of Service
+Privacy Policy
+Whois
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+

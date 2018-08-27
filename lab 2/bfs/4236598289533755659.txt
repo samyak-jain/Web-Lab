@@ -1,0 +1,572 @@
+
+
+
+
+
+
+
+Fully Managed Dedicated Server Hosting  – DreamHost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limited time! Save 28% on .COM New Domain Registrations. Offer ends soon.  
+
+
+
+
+
+
+
+
+
+
+
+WordPress 
+
+
+
+WordPress Hosting
+WooCommerce Hosting
+Guide to WordPress
+
+
+
+
+
+
+
+Hosting 
+
+
+
+Hosting Overview
+Shared Hosting
+VPS Hosting
+Dedicated Hosting
+Cloud Hosting
+
+
+
+
+
+Website Builder
+Domain Names
+Blog
+
+
+Log In
+
+
+
+Web Hosting CP
+DreamCompute CP
+Remixer
+Webmail
+
+
+
+
+Get Started
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Dedicated Hosting
+Fully-Managed Dedicated Server Hosting
+
+100% Uptime Guarantee
+DDoS Protection
+Full Root & Shell Access (SSH)
+RAID 1 Storage
+24/7 Support & Server Monitoring
+
+Starting at $169/mo
+Get Started Today
+
+
+
+
+
+
+
+Dedicated Hosting is Perfect For
+
+
+
+High Traffic Websites
+When your high-traffic site outgrows traditional shared hosting, a dedicated server will give your site the power to run quickly, reliably, and without interruption.
+
+
+
+Large Ecommerce Websites
+For ecommerce sites, downtime means lost sales. A dedicated server will ensure your online storefront can withstand high traffic during the busiest times so those sales can keep rolling in.
+
+
+
+
+
+Agencies with High Profile Clients
+If you've landed high profile clients, kudos! A dedicated server is the perfect place to house their streaming needs and impress the millions of fans visiting their sites with a fast, reliable experience.
+
+
+
+Reseller Hosting
+Looking for a little side hustle? If youâre a web designer or developer, create additional revenue from each of your clients by hosting their websites on your own dedicated server.
+
+
+
+
+
+
+
+
+Robust Features to Keep You Online
+
+
+100% Network Uptime Guarantee
+24x7 Tech Support & Server Monitoring
+DDoS Protection
+Password Protection (.htaccess)
+Crontab Access
+
+
+PHP/Perl/Python/Ruby Support
+OPcache
+Subversion Repository (SVN)
+Unlimited MySQL Databases
+Full Root & Shell Access (SSH)
+
+
+RAID 1 Storage
+Ubuntu Linux
+Unlimited Bandwidth
+Node.js
+Unique IPv4 and IPv6
+
+
+
+
+
+
+
+
+Size Does Matter
+Go ahead – compare us to the other guys! Dedicated servers from DreamHost are big enough to handle any need. With plenty of room to grow, you won't have to worry about RAM, disk space or bandwidth ever again.
+
+
+
+
+DreamHost
+GoDaddy
+BlueHost
+HostGator
+
+
+
+
+Max Cores
+12
+4
+4
+8
+
+
+Max RAM
+64GB
+32GB
+16GB
+30GB
+
+
+SSD Storage
+Yes
+No
+No
+Yes
+
+
+Max Storage
+2TB
+2TB
+1TB
+2TB
+
+
+RAID 1
+Yes
+No
+Yes
+Yes
+
+
+Max Bandwidth
+Unlimited
+Unlimited
+15TB
+Unlimited
+
+
+Free SSL Certificate(Beyond 1 year)
+Yes
+No
+No
+No
+
+
+
+*As of February 2018
+
+
+
+
+
+
+Talk to a Dedicated Server Specialist Today
+Fill out the form below to talk with a dedicated server specialist. We'll be in touch ASAP.
+
+
+Name
+
+
+
+Email
+
+
+
+How can we help you?
+
+
+
+
+
+
+
+
+Let's do this!
+
+
+
+Your inquiry was submitted successfully. Thank you.
+
+
+
+
+
+
+
+Our Most Powerful Web Hosting Solution
+
+DreamHost's dedicated servers are big enough to handle any need. You won't have to worry about RAM, disk space, or bandwidth ever again.
+Starting at just $169/mo
+Get Started
+
+
+
+
+
+
+
+Check Out Our Custom-Built Control Panel
+
+DreamHost's control panel is designed to give you the power and control that dedicated hosting customers need. Adjust the control panel to fit your needs with the flexibility to add or remove servers, reboot or powercycle your server whenever it's needed, and have complete management over all the domains, websites, and email addresses you own.
+
+
+
+
+
+
+
+
+Data Center Alley
+
+Check out our newest state-of-the-art facility in Ashburn, Virginia that we call "Data Center Alley." It includes 2N+2 power redundancy fed by two distinct utility substations and dual water lines for redundant cooling. There's a fast 1GBps internet connection and emergency generators on standby for technical security and multifactor identification, multi-level security zones and 24x7 staffing for even more peace of mind.
+
+
+
+
+
+
+
+Highest Rated Web Host by PCMag.com
+
+
+9.7
+Overall
+
+
+9.7
+Reliability
+
+
+9.9
+Tech Support
+
+
+9.6
+Likelihood to Recommend
+
+
+
+
+
+
+
+
+FAQs About DreamHost Dedicated Servers
+
+
+
+
+							What is Dedicated Hosting?
+						
+
+Think of a dedicated web server as a storage unit for your website or web applications. It keeps documents, videos, images and other computer files online. Web hosting companies rent space to you. All youâve got to do is upload files or a website onto the server.
+
+
+
+
+							Shared Hosting vs Dedicated Hosting
+						
+
+Shared: If youâre new to web hosting, a shared platform is great for learning the ropes. Itâs perfectly adequate for businesses and websites that have light to moderate web traffic and donât require complex, customized server configurations.
+Dedicated: With this option, youâre the sole user on the server. Its capacity and resources are all yours. This gives you much more control over its configuration and overall operating environment. Thereâs also a wider variety of services and software to choose from.
+Learn More
+
+
+
+
+							What can you do with a Dedicated Server?
+						
+
+Dedicated servers are fully-managed, business class servers. They are perfect for resource-heavy apps and giant websites. With a dedicated server, you have full control over how to configure your hosting environment making it perfect for major hosting needs.
+
+
+
+
+							What are the reasons to choose a Dedicated Server?
+						
+
+A dedicated server is the ultimate in power, security, and control. With a dedicated server, you wonât have to share resources with anyone. Here are some of the top reasons that people choose a dedicated server over other hosting options:
+
+Security is a top priority
+You expect consistently high levels of traffic
+Page load times need to be lightning fast
+You need custom programming options
+Youâre anticipating major growth
+
+Learn More
+
+
+
+
+
+
+							Do I need Dedicated Hosting?
+						
+
+If you have a site that needs reliable web hosting, you may want to think about dedicated hosting. Unlike shared web hosting, you have control over your own server. You'll experience enhanced security because you won't ever need to share the server with anyone else.
+Learn More
+
+
+
+
+							VPS vs Dedicated Hosting
+						
+
+VPS: A Virtual Private Server, still involves hosting several websites on the same server, but there's a hypervisor that ensures that one website doesn't start causing trouble for the other sites on the server. With VPS Hosting, you're allocated a certain amount of RAM, bandwidth and server space.
+Dedicated: You're able to choose the equipment, including the amount and type of RAM, the size and type of hard drive and the processor, used in the server. Further, 100 percent of the server's resources are allocated to your site and they aren't shared with any others.
+Learn More
+
+
+
+
+							Whatâs included with a Dedicated Server?
+						
+
+With a dedicated server, youâll have access to all the resources to handle even the highest traffic websites. With plenty of room to grow, you won't have to worry about RAM, disk space or bandwidth ever again.
+Learn More
+
+
+
+
+							What are the reasons to not use a Dedicated Server?
+						
+
+Plain and simple, a dedicated server is a much higher expense than say, shared hosting. If you arenât sure that you need all of the resources of a dedicated server, you may want to consider choosing a more cost effective option like VPS.
+Learn More
+
+
+
+
+							What do you need with a Dedicated Server?
+						
+
+Getting online with a Dedicated Server takes a number of steps. This quick rundown will ensure you get online quickly, and have all the tools necessary for success.
+
+Create a DreamHost Account
+Add a Dedicated Server
+Register a Domain Name
+Get FTP Access (or Similar Access)
+Youâre anticipating major growth
+
+Learn More
+
+
+
+
+
+
+
+
+
+Don't Need all the Power of Dedicated Hosting?
+
+
+
+VPS Hosting (Virtual Private Server)
+Maybe you just need a slice instead of the whole pie. VPS hosting might be perfect for you.
+
+Learn More
+
+
+
+
+
+
+
+The Right Dedicated Server Can Make All the Difference
+Arm your site with the power and control of DreamHost's dedicated servers.
+Get Started Today
+
+
+
+
+
+
+
+
+
+Products
+
+WordPress Hosting
+Website Builder
+Shared Hosting
+Virtual Private Servers
+Dedicated Servers
+Domain Names
+Monthly Web Hosting
+
+Legal
+
+Legal Information
+Privacy Policy
+Report Abuse
+Terms of Service
+WHOIS Lookup
+
+
+
+Company
+
+About
+Affiliates
+Blog
+Careers
+Community
+Contact
+News
+Green Hosting
+Partners
+Press Releases
+
+Login
+
+Web Hosting
+DreamCompute
+Website Builder
+Webmail
+
+
+
+Support
+
+Knowledge Base
+Forums
+System Status
+
+Follow Us
+
+
+
+
+
+
+
+
+Copyright © 2018 DreamHost, LLC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
